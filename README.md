@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ds2co/baggage/blob/master/LICENSE)
 [![npm (scoped)](https://img.shields.io/npm/v/baggage.svg)](https://www.npmjs.com/package/baggage)
 [![build status](https://img.shields.io/travis/ds2co/baggage/master.svg)](https://travis-ci.org/ds2co/baggage)
-[![Github file size](https://img.shields.io/github/size/ds2co/baggage/baggage.min.js.svg)](https://github.com/ds2co/baggage/blob/master/dist/baggage.min.js)
+[![Github file size](https://img.shields.io/github/size/ds2co/baggage/dist/baggage.min.js.svg)](https://github.com/ds2co/baggage)
 
 Baggage is a fun, lightweight state container for JavaScript applications.
 
