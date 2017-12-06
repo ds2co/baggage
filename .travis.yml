@@ -1,0 +1,23 @@
+language: node_js
+
+node_js:
+  - "node"
+  - "8"
+  - "7"
+  - "6"
+
+#before_script:
+
+#script:
+
+before_deploy:
+  - npm run build
+
+deploy:
+  provider: npm
+  email: "ds2co8@gmail.com"
+  api_key: "db5e9b17-923a-4379-8a14-0c7b8e2f34e6"
+  on:
+    tags: true
+  
+#after_deploy:
