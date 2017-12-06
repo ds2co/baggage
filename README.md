@@ -11,7 +11,7 @@ It helps you create consistency across your web applications and reduce the numb
 
 You can use Baggage together with React, Ember, Aurelia, Vue.js, or with any other view library.
 
-It is tiny package (~2kB) and has no dependencies.
+It is a tiny package and has no dependencies.
 
 # Table of Contents
 - [Installation](#installation)
